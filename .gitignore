@@ -1,0 +1,7 @@
+# Visual Studio 2019
+.vs
+
+[Bb]in/
+[Oo]bj/
+*.sln
+*.user

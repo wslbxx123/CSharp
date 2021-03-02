@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CosumeAsyncStream": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "GitHubKey": "d4bf3dccfa5f09365ad299d736ebac6b32f7a89f"
+      }
+    }
+  }
+}
